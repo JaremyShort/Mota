@@ -1,0 +1,21 @@
+{
+  "name": "web_mota",
+  "version": "1.0.0",
+  "description": "经典魔塔网页版游戏",
+  "main": "index.html",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": ["game", "pixel", "canvas", "mota"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^3.0.0",
+    "jsdom": "^26.0.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "type": "commonjs"
+}
